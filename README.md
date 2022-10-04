@@ -4,6 +4,7 @@
 Submitted by: **Barsha Chaudhary**
 
 **BitFitPart1** is a health metrics app that allows users to track daily sleep schedule and askes them how are they feeling in the morning
+
 Time spent: **10.2** hours spent in total
 
 ## Required Features
