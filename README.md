@@ -31,12 +31,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![Unit5_bitfitPart1](https://user-images.githubusercontent.com/64405568/193733179-6e1fec98-e76a-42b9-aee5-41a7ca6737ed.gif)
-
 GIF created with ...  
 [Kap](https://getkap.co/) for macOS
-
+![Unit5_bitfitPart1](https://user-images.githubusercontent.com/64405568/193733293-33b73564-86a0-4e17-b303-fefb0d104be0.gif)
 
 ## Notes
 
@@ -58,3 +55,4 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
